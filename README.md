@@ -1,19 +1,22 @@
 
-<table style="border: none;">
+<table style="width: 100%; border: none;">
   <tr>
     <td style="border: none; padding: 0;">
-      <a href="https://github.com/YOUR_GITHUB_USERNAME">
-        <img src="https://avatars.githubusercontent.com/u/61863925?v=4" alt="А где тут программировать?" width="150" style="border-radius: 50%;">
+      <a href="https://github.com/overgrigoriymaksimovskih">
+        <img src="https://avatars.githubusercontent.com/u/61863925?v=4" alt="а как тут программировать?" width="150" style="border-radius: 50%;">
       </a>
     </td>
-    <td style="border: none; padding-left: 20px; vertical-align: top;">
-      <h1>Приветствую! 👋 Рад, что заглянули в мой профиль GitHub!</h1>
+    <td style="border: none; width: 100%; vertical-align: top;">
+      <h1>Приветствую! 👋</h1>
+      <h3>Рад, что заглянули в мой профиль GitHub! </h3>
       <p>
-        Безумно увлечен JAVA с 2021 года ☕️
+        <br> Безумно увлечен Java с 2021 года ☕️
       </p>
     </td>
   </tr>
 </table>
+
+
 
 ---
 ## 🛠️ Мой стек
@@ -30,8 +33,8 @@
 
 ## 🤝 Контакты
 
-*   Email: [andrey.sabitoff@yandex.ru](mailto:andrey.sabitoff@yandex.ru)
-*   Telegram: @AndreySabitov
+*   Email: [overbf@gmail.com](mailto:overbf@gmail.com)
+*   Telegram: @Talalaev74
 ---
 ---
 
