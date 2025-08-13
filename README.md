@@ -1,20 +1,20 @@
 
-<table style="width: 100%; border: none;">
+<table style="width: 100%; border: 0px;">
   <tr>
-    <td style="border: none; padding: 0;">
+    <td>
       <a href="https://github.com/overgrigoriymaksimovskih">
-        <img src="https://avatars.githubusercontent.com/u/61863925?v=4" alt="а как тут программировать?" width="150" style="border-radius: 50%;">
+        <img src="https://www.oracle.com/a/ocom/img/rc30v1-java-se.png" alt="а как тут программировать?" width="300" style="border-radius: 50%;">
       </a>
     </td>
-    <td style="border: none; width: 100%; vertical-align: top;">
-      <h1>Приветствую! 👋</h1>
-      <h3>Рад, что заглянули в мой профиль GitHub! </h3>
-      <p>
+    <td>
+      <h1 style="margin-bottom: 0; margin-top: 0;">Рад, что заглянули в мой профиль GitHub!  👋</h1>
+      <p style="margin-bottom: 0; margin-top: 0;">
         <br> Безумно увлечен Java с 2021 года ☕️
       </p>
     </td>
   </tr>
 </table>
+
 
 
 
