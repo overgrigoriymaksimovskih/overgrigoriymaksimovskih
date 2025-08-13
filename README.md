@@ -7,7 +7,7 @@
       </a>
     </td>
     <td>
-      <h1 style="margin-bottom: 0; margin-top: 0;">Рад, что заглянули в мой профиль GitHub!  👋</h1>
+      <h1 style="margin-bottom: 0; margin-top: 0;"> 👋 Рад, что заглянули в мой профиль GitHub! </h1>
   <h2>
       <p style="margin-bottom: 0; margin-top: 0;">
         <br> Безумно увлечен Java с 2021 года ☕️
