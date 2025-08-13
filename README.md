@@ -20,23 +20,22 @@
 
 
 
----
-## 🛠️ Мой стек
+## <span style="font-size: 1.2em;">🔧 Мой стек</span>
 * Java • Spring Boot • Spring Data • Hibernate • Apache Maven • Apache Kafka • RabbitMQ • Redis • Log4j • Docker • Docker-compose • PostgreSQL • JUnit • Mockito • Apache Tomcat • GitHub • Selenium • Intellij IDEA • Реляционные БД • Монолит • REST • Микросервисная архитектура
 
-
 ---
-## 🛠️ Мои проекты с подробными readme файлами
+## <span style="font-size: 1.2em;">📂 Мои проекты с подробными readme файлами</span>
 *   https://github.com/overgrigoriymaksimovskih/MFbotTG
 *   https://github.com/overgrigoriymaksimovskih/RestToKafka
 *   https://github.com/overgrigoriymaksimovskih/LinkShortener
 ---
 ---
 
-## 🤝 Контакты
+## <span style="font-size: 1.2em;">✉️ Контакты</span>
 
 *   Email: [overbf@gmail.com](mailto:overbf@gmail.com)
 *   Telegram: @Talalaev74
 ---
 ---
+
 
