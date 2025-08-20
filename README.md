@@ -23,6 +23,7 @@
 
 ## <span style="font-size: 1.2em;">🔧 Мой стек</span>
 * Java • Spring Boot • Spring Data • Hibernate • Apache Maven • Apache Kafka • RabbitMQ • Redis • Log4j • Docker • Docker-compose • PostgreSQL • JUnit • Mockito • Apache Tomcat • GitHub • Selenium • Intellij IDEA • Реляционные БД • Монолит • REST • Микросервисная архитектура
+* ![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)
 
 ---
 ## <span style="font-size: 1.2em;">📂 Мои проекты с подробными readme файлами</span>
