@@ -30,14 +30,14 @@
 *   https://github.com/overgrigoriymaksimovskih/MFbotTG
 *   https://github.com/overgrigoriymaksimovskih/RestToKafka
 *   https://github.com/overgrigoriymaksimovskih/LinkShortener
----
+
 ---
 
 ## <span style="font-size: 1.2em;">✉️ Контакты</span>
 
 *   Email: [overbf@gmail.com](mailto:overbf@gmail.com)
 *   Telegram: @Talalaev74
----
+
 ---
 
 
