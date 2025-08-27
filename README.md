@@ -8,7 +8,8 @@
       </a>
     </td>
     <td>
-      <h1 style="margin-bottom: 0; margin-top: 0;"> 👋 Рад, что заглянули в мой профиль GitHub! </h1>
+      <h1 style="margin-bottom: 0; margin-top: 0;"> <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="50">
+ Рад, что заглянули в мой профиль GitHub! </h1>
   <h2>
       <p style="margin-bottom: 0; margin-top: 0;">
         <br> What's the object-oriented way to become wealthy? Inheritance. ☕️
