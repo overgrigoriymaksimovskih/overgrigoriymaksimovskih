@@ -13,6 +13,9 @@
       <p style="margin-bottom: 0; margin-top: 0;">
         <br> What's the object-oriented way to become wealthy? Inheritance. ☕️
       </p>
+      <p style="margin-bottom: 0; margin-top: 0;">
+        <br> Пишу на java c 2021 года
+      </p>
   </h2>
     </td>
   </tr>
